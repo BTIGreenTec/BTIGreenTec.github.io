@@ -1,0 +1,21 @@
+{% assign my_pages = site.pages %}
+{% if include.parent == "/" %}
+{% assign my_pages = site.pages | where:"parent", include.parent | sort: "sort" %}
+{% else %}
+{% assign my_pages = site.pages | where:"title", page.title | sort: "sort" %}
+{% endif %}
+<ul>
+  {% for p in my_pages limit:include.limit %}
+  <li>
+    <a href="{{p.url}}">{{p.title}}</a>
+    {% assign my_sub_pages = site.pages | where:"parent", p.title | sort: "sort" %}
+    <ul>
+      {% for sp in my_sub_pages limit:include.limit %}
+      <li>
+        <a href="{{sp.url}}">{{sp.title}}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </li>
+  {% endfor %}
+</ul>
