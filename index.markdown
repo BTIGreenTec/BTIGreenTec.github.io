@@ -4,5 +4,6 @@
 
 layout: default
 hide-breadcrumbs: true
+title: Global Home
 ---
 {% include list.html parent="/" %}

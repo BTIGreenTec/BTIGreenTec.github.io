@@ -1,0 +1,17 @@
+---
+---
+<nav class="p-3 navbar header fixed-top navbar-expand-lg bg-light">
+    <div class="container"><!--<div class="container-fluid">-->
+        <a class="navbar-brand py-1 logo pe-4" href="/"><span class="svglogo">[ Logo ]<span class="tm">&trade;</span></span>BTIGreenTec<!--&reg;--><!--<span class="fs-6 fw-light">&reg;</span>--></a>
+        <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse py-5 py-md-3" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        {% include navleft.html %}
+        </ul>
+        <ul class="navbar-nav d-lg-none d-xl-flex">
+        {% include navright.html %}
+            </ul>    </div>
+    </div>
+</nav>

@@ -1,0 +1,6 @@
+{% assign sorted_pages = site.pages | where:"nav", "right" | sort: "sort" %}
+{% for p in sorted_pages %}
+  <li class="nav-item">
+    <a class="nav-link px-3 px-sm-3 px-md-3 py-4 py-md-3" href="{{p.url}}">{{p.title}}</a>
+  </li>
+{% endfor %}
