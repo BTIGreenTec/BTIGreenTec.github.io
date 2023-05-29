@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
+<nav class="navbar navbar-expand-lg bg-body-tertiary shadow-none">
 <div class="container">
     {% assign home-url = "/" %}
     {% assign hp = site.pages | where_exp: "item", "item.is-country-root" | where_exp: "item", "item.country == page.country" | first %}
