@@ -11,7 +11,7 @@
                     <ul class="navbar-nav">
                         {% assign sitemap_pages_left = site.pages | where_exp: "item", "item.sitemap == 'left'" | where_exp: "item", "item.country == page.country" | sort: "sort" %}
                         {% for p in sitemap_pages_left %}
-                            <li class="nav-item"><a class="nav-link py-1" href="{{p.url}}">{{p.title}}</a></li>
+                            <li class="nav-item"><a class="nav-link py-1" href="{{p.url}}">{{p.title}}{% if p.is-country-root %} Home{% endif %}</a></li>
                         {% endfor %}
                     </ul>
                 </div>
