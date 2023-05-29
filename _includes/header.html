@@ -1,10 +1,9 @@
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
 <div class="container">
     {% assign home-url = "/" %}
-    {% assign hp = site.pages | where_exp: "item", "item.is-country-root" | where_exp: "item", "item.country == page.country" | limit: 1 %}
-    {% if hp %}
+    {% assign hp = site.pages | where_exp: "item", "item.is-country-root" | where_exp: "item", "item.country == page.country" | first %}
     {% assign home-url = hp.url %}
-    {% endif %}
+    
 <a class="navbar-brand" href="{{home-url}}">[ Logo ]<span class="tm">&trade;</span></a>
 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
