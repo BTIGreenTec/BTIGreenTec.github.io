@@ -1,6 +1,6 @@
 {% assign sorted_pages = site.pages | where_exp: "item", "item.nav == 'left'" | where_exp: "item", "item.country == page.country" | sort: "sort" %}
 {% for p in sorted_pages %}
   <li class="nav-item">
-    <a class="nav-link text-uppercase fw-bold px-3 px-sm-3 px-md-3 py-4 py-md-3 fs-3 fs-sm-4" href="{{p.url}}">{{p.title}}</a>
+    <a class="nav-link text-uppercase fw-bold py-3 fs-3 fs-sm-4" href="{{p.url}}">{{p.title}}</a>
   </li>
 {% endfor %}

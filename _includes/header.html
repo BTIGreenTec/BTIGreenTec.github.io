@@ -1,19 +1,19 @@
-<nav class="navbar navbar-expand-lg bg-body-tertiary shadow-none">
+<nav class="navbar navbar-expand-md shadow-none">
 <div class="container">
     {% assign home-url = "/" %}
     {% assign hp = site.pages | where_exp: "item", "item.is-country-root" | where_exp: "item", "item.country == page.country" | first %}
     {% assign home-url = hp.url %}
     
-<a class="navbar-brand" href="{{home-url}}">[ Logo ]<span class="tm">&trade;</span></a>
+<a class="navbar-brand py-0" href="{{home-url}}">[ Logo ]<span class="tm">&trade;</span></a>
 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
 </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+<ul class="navbar-nav me-auto">
 {% include navleft.html %}
 </ul>
-<ul class="navbar-nav d-sm-none d-md-flex">
+<ul class="navbar-nav d-md-flex">
 {% include navright.html %}
 </ul>
 </div>
