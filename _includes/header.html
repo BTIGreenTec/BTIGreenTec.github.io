@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-md shadow-none">
+<nav class="navbar navbar-expand-md shadow-none ps-2 ps-sm-0">
 <div class="container">
     {% assign home-url = "/" %}
     {% assign hp = site.pages | where_exp: "item", "item.is-country-root" | where_exp: "item", "item.country == page.country" | first %}
