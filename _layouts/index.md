@@ -59,7 +59,7 @@ layout: root
     </div>
   </div>
     
-      {% if forloop.index == 1 %}
+      {% if forloop.index == 100 %}
       <div class="container-fluid p-3 py-5 p-sm-5 text-light subsection-press">
   <div class="row">
     <h3 class="col-9 col-md-10 fs-3 fw-lighter">Press Releases</h3>
@@ -75,7 +75,7 @@ layout: root
 
       {% endif %}
 
-            {% if forloop.index == 2 %}
+            {% if forloop.index == 200 %}
       <div class="container-fluid p-3 py-5 p-sm-5 text-light subsection-blog">
   <div class="row">
     <h3 class="col-9 col-md-10 fs-3 fw-lighter">Blog Posts</h3>

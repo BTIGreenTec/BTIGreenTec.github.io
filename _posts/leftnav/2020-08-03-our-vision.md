@@ -2,13 +2,13 @@
 categories: [leftnav]
 permalink: /:title.html
 layout: page
-title:  "About Us"
+title:  "Our Vision"
 hero-heading: "Who we are..."
 hero-brief: "BTi Green Tec is a new and innovative company that is dedicated to providing solutions for a wide range of industries"
 hero-button: "Learn More"
 hero-image: https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80
 hero-page-image: https://images.unsplash.com/photo-1497211419994-14ae40a3c7a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
-subsection-heading: "About Us"
+subsection-heading: "Our Vision"
 subsection-brief: "At BTi Green Tec, we believe that it is our responsibility to respect and protect the environment. We take pride in the sustainable solutions we provide to our clients, which are designed to reduce their environmental footprint and make an impact on our planet. We strive to create the most cost-effective solutions for our customers, with minimal disruption to existing processes and operations."
 subsection-button: "Find out more"
 subsection-image: https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80

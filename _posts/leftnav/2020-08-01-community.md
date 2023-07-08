@@ -1,5 +1,5 @@
 ---
-categories: [leftnav]
+categories: [notleftnav]
 permalink: /:title.html
 layout: page
 title:  "Community"
