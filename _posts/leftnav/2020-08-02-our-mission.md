@@ -13,6 +13,7 @@ subsection-brief: "Learn about our purpose and how we aim to achieve our goals."
 subsection-button: "Find out more"
 subsection-image: https://images.unsplash.com/photo-1616040261608-97c840805b1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80
 subsection-color: "#013f47"
+content-image: https://images.unsplash.com/photo-1488642945284-f5b65425f15a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1951&q=80
 ---
 
 At BTi Green Tec, our mission is to spearhead the global transition to sustainable practices and green technology solutions. We are dedicated to making a lasting impact on the environment by offering innovative, reliable, and scalable solutions that address the world's most pressing sustainability challenges.

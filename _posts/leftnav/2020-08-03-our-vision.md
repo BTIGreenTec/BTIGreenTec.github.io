@@ -13,6 +13,7 @@ subsection-brief: "Discover our long-term vision and aspirations for a sustainab
 subsection-button: "Find out more"
 subsection-image: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2513&q=80
 subsection-color: "#485829"
+content-image: https://images.unsplash.com/photo-1526797001-a51ad71e204a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 ---
 
 At BTi Green Tec, we envision a world where sustainability is at the core of every business and individual's decision-making process. We believe that by embracing green technology and sustainable practices, we can create a harmonious balance between human progress and environmental preservation.
