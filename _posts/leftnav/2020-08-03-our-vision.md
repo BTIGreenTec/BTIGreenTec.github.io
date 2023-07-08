@@ -11,11 +11,30 @@ hero-page-image: https://images.unsplash.com/photo-1497211419994-14ae40a3c7a3?ix
 subsection-heading: "Our Vision"
 subsection-brief: "Discover our long-term vision and aspirations for a sustainable world."
 subsection-button: "Find out more"
-subsection-image: https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80
+subsection-image: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2513&q=80
 subsection-color: "#485829"
 ---
-BTi Green Tec is a new and innovative company that is dedicated to providing solutions for a wide range of industries. By developing products and implementing technologies such as green cleaning energy, healthcare advancement, system and process optimisation, BTi Green Tec strives to create a better future.
 
-At BTi Green Tec, we believe that it is our responsibility to respect and protect the environment. We take pride in the sustainable solutions we provide to our clients, which are designed to reduce their environmental footprint and make an impact on our planet. We strive to create the most cost-effective solutions for our customers, with minimal disruption to existing processes and operations.
+At BTi Green Tec, we envision a world where sustainability is at the core of every business and individual's decision-making process. We believe that by embracing green technology and sustainable practices, we can create a harmonious balance between human progress and environmental preservation.
 
-Our team of experts is passionate about creating environmentally responsible solutions. Our team draws upon its extensive knowledge of core and computer science to provide the best solutions to our customers. We believe in creating long-term partnerships with our clients, so we can continuously assess, create, and implement the most suitable  solutions and technologies for their needs.
+Our vision is to lead the way in revolutionizing industries and empowering communities with innovative, eco-friendly solutions. We strive to be a catalyst for positive change, inspiring others to adopt sustainable practices and contribute to a greener future.
+
+## Key Elements of Our Vision
+
+### Environmental Stewardship
+
+We are committed to preserving and protecting the environment for future generations. Our vision includes promoting renewable energy, reducing carbon emissions, and minimizing waste through efficient resource management.
+
+### Technological Advancements
+
+We believe that technological advancements play a vital role in driving sustainability. Our vision encompasses harnessing cutting-edge technologies to develop innovative green solutions that are efficient, reliable, and scalable.
+
+### Global Collaboration
+
+We recognize the significance of collaboration in tackling global environmental challenges. Our vision involves fostering partnerships with like-minded organizations, governments, and individuals to collectively address sustainability issues on a global scale.
+
+### Empowering Communities
+
+We strive to empower communities by providing access to sustainable solutions and knowledge. Our vision includes promoting education, awareness, and training programs to inspire individuals and businesses to embrace sustainable practices.
+
+Join us on our journey towards a sustainable future. Together, we can create a world where economic growth and environmental responsibility go hand in hand, ensuring a better tomorrow for generations to come.

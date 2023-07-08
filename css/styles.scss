@@ -114,3 +114,18 @@ max-height: 600px;
         color: white;
     }
 }
+
+
+h1 {
+
+}
+
+h2 {
+    font-size: calc(1.025rem + .9vw);
+    margin: calc(1rem + .9vw) 0;
+}
+
+h3 {
+    font-size: calc(0.625rem + .9vw);
+    margin: calc(1.5rem + .9vw) 0 calc(0.5rem + .9vw) 0;
+}
