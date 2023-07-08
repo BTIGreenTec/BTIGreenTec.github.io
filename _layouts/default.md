@@ -1,0 +1,4 @@
+---
+layout: root
+---
+{{content}}

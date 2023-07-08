@@ -1,8 +1,0 @@
-{% assign press_pages = site.pages | where_exp: "item", "item.parent == include.parent" | where_exp: "item", "item.country == page.country" | sort: "sort" %}
-{% for p in press_pages limit:include.limit %}
-<div class="my-5">
-  <p><a href="{{p.url}}" ><img src="{{p.thumbnail}}" width="100%"/></a></p>
-  <p><a href="{{p.url}}" class="text-decoration-none fw-bold">{{p.title}}</a></p>
-  <p><a href="{{p.url}}" class="text-decoration-none">{{p.subtitle}}</a></p>
-</div>
-{% endfor %}
