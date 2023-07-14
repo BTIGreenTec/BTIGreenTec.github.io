@@ -1,7 +1,7 @@
 ---
 layout: root
 ---
-<div class="container-fluid bg-light g-0">
+<div class="container-fluid bg-light g-0 pb-0 pb-sm-5">
 <div class="container-fluid g-0">
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000" >
   <div class="carousel-inner">
@@ -23,14 +23,14 @@ layout: root
 </div>
 
 <div class="container-fluid pt-5">
-  <div class="container py-5">
+  <div class="container">
     {{content}}
   </div>
 </div>
 
       {% for p in site.categories.leftnav %}
       {% assign remainder = forloop.index | modulo: 2 %}
-  <div class="container py-5 text-light subsection g-5">
+  <div class="container py-3 text-light subsection g-5">
     <div class="row" style="background-color:{{p.subsection-color}}">
       {% if remainder == 1 %}
       <div class="col-md-6 bg-primary text-light g-0 d-block d-md-none">
