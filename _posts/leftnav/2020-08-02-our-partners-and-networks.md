@@ -6,7 +6,7 @@ title:  "Our Partners & Networks"
 hero-heading: "Our Partners & Networks"
 hero-brief: "Explore our collaborations with our partners and networks to address global environmental challenges."
 hero-button: "Learn More"
-hero-image: https://images.unsplash.com/photo-1544312239-6960996acccf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
+hero-image: https://images.unsplash.com/photo-1508808402998-ec38e4bf0fd0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 hero-page-image: https://images.unsplash.com/photo-1523435324848-a7a613898152?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80
 subsection-heading: "Our Partners & Networks"
 subsection-brief: "Explore our collaborations and partnerships with industry leaders, governments, and communities to address global environmental challenges."
