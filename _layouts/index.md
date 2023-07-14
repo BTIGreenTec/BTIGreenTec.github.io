@@ -9,9 +9,9 @@ layout: root
       {% for p in site.categories.leftnav %}
         <div class="carousel-item {% if isfirst == true %}active{% endif %}">
       <img src="{{p.hero-image}}" class="d-block w-100" alt="...">
-      <div class="carousel-caption">
+      <div class="home-carousel-caption carousel-caption text-center">
         <h5>{{p.hero-heading}}</h5>
-        <p>{{p.hero-brief}}</p>
+        <p class="py-3">{{p.hero-brief}}</p>
         <a class="btn btn-outline-light" href="{{p.url}}" role="button">{{p.hero-button}}</a>
       </div>
     </div>

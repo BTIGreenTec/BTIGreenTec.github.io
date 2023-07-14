@@ -3,7 +3,7 @@ categories: [leftnav]
 permalink: /:title.html
 layout: page
 title:  "Our Vision"
-hero-heading: "Our Vision..."
+hero-heading: "Our Vision"
 hero-brief: "Explore our long-term vision for a sustainable world and join us in creating a greener future for all."
 hero-button: "Learn More"
 hero-image: https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2232&q=80
