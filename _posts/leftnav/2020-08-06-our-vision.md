@@ -20,6 +20,8 @@ At BTi Green Tec, we envision a world where sustainability is at the core of eve
 
 Our vision is to lead the way in revolutionizing industries and empowering communities with innovative, eco-friendly solutions. We strive to be a catalyst for positive change, inspiring others to adopt sustainable practices and contribute to a greener future.
 
+----
+
 ## Key Elements of Our Vision
 
 ### Environmental Stewardship
@@ -37,5 +39,7 @@ We recognize the significance of collaboration in tackling global environmental 
 ### Empowering Communities
 
 We strive to empower communities by providing access to sustainable solutions and knowledge. Our vision includes promoting education, awareness, and training programs to inspire individuals and businesses to embrace sustainable practices.
+
+----
 
 Join us on our journey towards a sustainable future. Together, we can create a world where economic growth and environmental responsibility go hand in hand, ensuring a better tomorrow for generations to come.

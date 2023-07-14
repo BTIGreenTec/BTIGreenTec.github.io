@@ -18,6 +18,8 @@ content-image: https://images.unsplash.com/photo-1488642945284-f5b65425f15a?ixli
 
 At BTi Green Tec, our mission is to spearhead the global transition to sustainable practices and green technology solutions. We are dedicated to making a lasting impact on the environment by offering innovative, reliable, and scalable solutions that address the world's most pressing sustainability challenges.
 
+----
+
 ## Key Elements of Our Mission
 
 ### Developing Sustainable Solutions
@@ -39,5 +41,7 @@ Education is a powerful tool for change. We are passionate about empowering indi
 ### Creating Long-Term Partnerships
 
 Collaboration is essential for achieving widespread impact. Our mission includes forging long-term partnerships with industry leaders, governments, and communities to drive sustainable development, share best practices, and collectively address global environmental challenges.
+
+----
 
 By pursuing our mission, we aim to create a greener and more sustainable world for current and future generations. Join us in our endeavour to make a significant difference and shape a better future for all.

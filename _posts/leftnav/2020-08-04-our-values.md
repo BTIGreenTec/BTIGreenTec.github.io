@@ -18,6 +18,8 @@ content-image: https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?ixli
 
 At BTi Green Tec, our values serve as the guiding principles that shape our organization's culture, decisions, and actions. They reflect our commitment to sustainability, innovation, collaboration, and integrity. Our values are at the core of everything we do, driving us to make a positive impact on the environment and society.
 
+----
+
 ## Sustainability
 
 We are deeply committed to environmental sustainability. We strive to develop and promote solutions that minimize our ecological footprint, conserve resources, and preserve the planet's biodiversity. Our goal is to create a sustainable future for generations to come.
@@ -37,5 +39,7 @@ We uphold the highest standards of integrity and ethical conduct. Honesty, trans
 ## Customer Focus
 
 Our customers are at the centre of everything we do. We listen to their unique needs, understand their challenges, and provide tailored solutions that exceed their expectations. We are committed to delivering exceptional customer service, fostering long-term relationships, and ensuring their satisfaction.
+
+----
 
 These values guide us in our pursuit of sustainability and shape our interactions with clients, partners, and the community. By upholding these values, we are dedicated to making a positive and lasting impact on the environment and society.
