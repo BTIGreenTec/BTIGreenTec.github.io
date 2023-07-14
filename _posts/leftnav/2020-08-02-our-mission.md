@@ -6,7 +6,7 @@ title:  "Our Mission"
 hero-heading: "Our Mission"
 hero-brief: "Discover our mission to drive sustainable practices and develop innovative green technology solutions"
 hero-button: "Learn More"
-hero-image: https://images.unsplash.com/photo-1510524335095-4c8fff293074?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80
+hero-image: https://images.unsplash.com/photo-1523774294084-94691d7bb289?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2076&q=80
 hero-page-image: https://images.unsplash.com/photo-1663237803706-b09171da346e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 subsection-heading: "Our Mission"
 subsection-brief: "Learn about our purpose and how we aim to achieve our goals."

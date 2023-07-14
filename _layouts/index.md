@@ -3,7 +3,7 @@ layout: root
 ---
 <div class="container-fluid bg-light g-0">
 <div class="container-fluid g-0">
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000" >
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000" >
   <div class="carousel-inner">
       {% assign isfirst = true %}
       {% for p in site.categories.leftnav %}
