@@ -21,7 +21,7 @@ layout: root
           </nav>
           <div class="row">
           <div class="col-md-4 col-lg-4">
-            <img src="{{page.content-image}}" width="100%" style="margin-bottom:2rem;"/>
+            <img src="{{page.content-image}}" width="100%" class="rounded" style="margin-bottom:2rem;"/>
           </div>
           <div class="col-md-8 col-lg-8">
           <h1>{{page.title}}</h1>
