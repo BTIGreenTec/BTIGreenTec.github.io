@@ -14,7 +14,10 @@
   <body>
   <nav class="p-3 navbar header fixed-top navbar-expand-lg bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand py-3" href="/index.html">[ BTi Green Tec ]<span class="fs-6 fw-light" style="display:none;">&#8482;</span></a>
+    <a class="navbar-brand py-3" href="/index.html"><img src="/BTIGreenTecLogo.png" style="
+    display: inline-block;
+    margin-top: -6px;
+"> BTiGreenTec<span class="fs-6 fw-light" style="display:none;">™</span></a>
     <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
