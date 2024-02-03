@@ -47,7 +47,12 @@
 <div class="container-fluid bg-dark text-white-50 p-5 footer">
     <div class="row g-0">
         <div class="col-sm-12 col-md-3 text-center text-sm-center text-md-start g-0">
-            <p class="py-3 text-light">[BTi Green Tec]&#8482;</p>
+            <p class="py-3 text-light"><img src="/BTIGreenTecLogo.png" style="
+    display: inline-block;
+    margin-top: -6px;
+    width: 20px;
+    margin-right: 3px;
+"> BTiGreenTec</p>
         </div>
         <div class="row col-sm-6 col-md-6 text-center text-md-start g-0 pb-3">
             <p class="text-uppercase fw-bold py-3 text-light">Quick Links</p>
