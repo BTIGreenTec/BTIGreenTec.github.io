@@ -88,7 +88,7 @@
             </p>
         </div>
         <div class="col text-center text-sm-center text-md-start g-0">
-            <p class="py-3">Copyright &copy; 2023 BTi Green Tec. Registered in England and Wales, UK. All rights reserved.</p>
+            <p class="py-3">Copyright &copy; 2023 BTiGreenTec. Registered in England and Wales, UK. All rights reserved.</p>
         </div>        
     </div>
 </div>
